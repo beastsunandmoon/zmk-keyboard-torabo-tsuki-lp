@@ -16,6 +16,7 @@
         lay4esc {
             bindings = <&lt 4 ESCAPE>;
             key-positions = <58 59>;
+            timeout-ms = <100>;
         };
 
         tab {
